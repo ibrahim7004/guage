@@ -1,0 +1,5 @@
+Name,Label,Sentiment,Out-Performance
+EQUITY Factsheet_ Publicis Groupe S.A.,LABEL_2,0.9173587560653687,17.2%
+EQUITY Factsheet_ Caterpillar Inc.,LABEL_1,0.8997765630483627,6.8%
+EQUITY Factsheet_ Boliden AB (publ),LABEL_2,0.8858085393905639,-27.7%
+EQUITY Factsheet_ Arista Networks Inc.,LABEL_1,0.8140279650688171,-5.3%
